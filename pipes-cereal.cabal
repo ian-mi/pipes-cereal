@@ -15,6 +15,10 @@ build-type:          Simple
 -- extra-source-files:  
 cabal-version:       >=1.10
 
+source-repository head
+    Type: git
+    Location: https://github.com/ian-mi/pipes-cereal
+
 library
   exposed-modules:     Pipes.Cereal
   -- other-modules:       
