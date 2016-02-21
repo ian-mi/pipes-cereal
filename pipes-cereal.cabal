@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                pipes-cereal
-version:             0.1.0
+version:             0.1.1
 synopsis:            Encode and decode binary streams using the pipes and cereal libraries.
 -- description:         
 license:             BSD3
